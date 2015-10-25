@@ -7,23 +7,13 @@
 }
 
 .img-size {
-    width: 90px;
+    width: 120px;
     height: 90px;
     margin: 3%;
 }
 
-#frames {
-    
-}
-
-#wheels {
-    
-}
-
-#gears {
-    
-}
-
-#accessories {
-    
+.img-medium {
+    width: 130px;
+    height: 130px;
+    margin: 4%;
 }
