@@ -1,6 +1,6 @@
 app.controller("BikeController", function($scope){
-    $scope.framesImgs = ["Mountain-Bike-Riding-Lion.jpg", "frameOrange.png", "frameGreen.png", "frameYellow.png"];
-    $scope.wheelImgs = ["Mountain-Bike-Riding-Lion.jpg", "wheelOrange.png", "wheelGreen.png", "wheelYellow.png"];
+    $scope.framesImgs = ["bikeFrame.png", "frameOrange.png", "frameGreen.png", "frameYellow.png"];
+    $scope.wheelImgs = ["bikeWheels.png", "wheelOrange.png", "wheelGreen.png", "wheelYellow.png"];
     $scope.frameImg = $scope.framesImgs[0];
     $scope.wheelImg = $scope.wheelImgs[0];
     
