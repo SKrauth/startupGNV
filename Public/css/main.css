@@ -1,6 +1,29 @@
-#wheel {
-  height: 80px;
-  width: 80px;
-  border-radius: 40px;
-  border: solid black 1px;
+.push-down {
+     margin-bottom: 45px;
+}
+
+.store-img {
+    width: 100%;
+}
+
+.img-size {
+    width: 40px;
+    height: 40px;
+    margin: 20%;
+}
+
+#frames {
+    
+}
+
+#wheels {
+    
+}
+
+#gears {
+    
+}
+
+#accessories {
+    
 }
