@@ -4,7 +4,7 @@ This was the Minimum Viable Product that I created over the course of Startup Ga
 
 ### Sample Code
 
-```
+```JavaScript
 $scope.photoArray = ["banner.jpg", "download.jpg", "family-biking.jpg", "Mountain-Bike-Riding-Lion.jpg", "tandum-water.jpg"];
 $scope.imageLeft = "";
 $scope.picker = Math.floor(Math.random()*5);
